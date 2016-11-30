@@ -1,1 +1,1 @@
-此项目是练习pythoni。
+此项目是练习python
