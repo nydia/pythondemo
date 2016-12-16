@@ -4,6 +4,8 @@ Created on 2016年11月14日
 
 @author: lvhq
 '''
+import string
+
 
 if __name__ == '__main__':
     
@@ -64,12 +66,29 @@ if __name__ == '__main__':
     '元组'
 #     print(3*(40+2,))
 
+#     print('%+5d' % 10) + '\n' + ('%+5d' % -10)
+
+    '字符串函数'
+#     print(string.digits)
+#     print(string.letters)
+#     print(string.printable)
+
+    '第四章 字典'
+    '4.2.3 字典的格式化字符串'
+#     phonebook = {'beth':'9102','Alice':'2341','Cecil':'3258'}
+#     phone = input("Cecil's phone number is %(Cecil)s." % phonebook)
     
-    
-    
-    
-    
-    
+#     template = '''
+#     <html>
+#         <head><title>%(title)s</title></head>
+#         <body>
+#             <h1>%(title)s</h1>
+#             <p>%(text)s</p>
+#         <body>
+#     </html>
+#     '''
+#     data = {'title' : 'My home page', 'text' : 'Welcome to my home page!'}
+#     print template % data
     
     
     
