@@ -31,7 +31,7 @@ if __name__ == '__main__':
     
     name = raw_input('Name : ')
     
-    #查找电话号码还是地址？使用正确的键：
+    #查找电话号码还是地址？
     request = raw_input('Phone number (p) address (a)? ')
     
     #使用正确的键
