@@ -91,5 +91,7 @@ if __name__ == '__main__':
 #     print template % data
     
     
-    
+    '第五章 条件。循环和其他语句'
+    print 1,2,3
+    print(1,2,3)
     
